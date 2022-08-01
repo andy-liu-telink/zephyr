@@ -125,7 +125,7 @@
 };
 
 &gpioc {
-	interrupts = <25 1>;
+	interrupts = <37 1>;
 	status = "okay";
 };
 
